@@ -2,6 +2,14 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_file: 
+  source_file: 'C:/Users/hardi/Downloads/MURA-v1.1.zip'
   local_data: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
+
+preprocess_data:
+  root_dir: artifacts/preprocess
+  train_file_path: artifacts/preprocess/train.csv
+  test_file_path: artifacts/preprocess/test.csv
+
+  
+
