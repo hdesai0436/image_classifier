@@ -1,8 +1,8 @@
 import os
 import zipfile
-from src.image_classifer.logger import logging
-from src.image_classifer.exception import image_classifier_expection
-from src.image_classifer.entity.config_enityt import DataIngestionconfig
+from src.image_classifers.logger import logging
+from src.image_classifers.exception import image_classifier_expection
+from src.image_classifers.entity.config_enityt import DataIngestionconfig
 from pathlib import Path
 import shutil
 

@@ -12,3 +12,4 @@ scipy
 Flask
 Flask-Cors
 -e .
+scikit-learn

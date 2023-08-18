@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 image_classifer/
 artifacts/
+image_classify/
 

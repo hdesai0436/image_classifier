@@ -1,5 +1,5 @@
-from src.image_classifer.config.configuration import ConfigurationManager
-from src.image_classifer.components.data_ingestion import DataIngestion
+from src.image_classifers.config.configuration import ConfigurationManager
+from src.image_classifers.components.data_ingestion import DataIngestion
 
 class DataIngestionPipeline:
     def __init__(self):
